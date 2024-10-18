@@ -42,3 +42,18 @@ Grupo: Ana Pellegrino, Artur Uchôa, André Mota, Isabel Lugon e João Magalhãe
 - Armazena o nome do item, quantidade e preço unitário.
 - Principais métodos:
   - Calcular Total: Calcula o total para o item com base na quantidade e preço unitário.
+
+# Quais são os itens de menu mais populares entre os clientes?
+- Identificar os itens mais pedidos ajuda na otimização do estoque, na criação de promoções e na personalização do cardápio para atender melhor os clientes.
+
+# Quais horários do dia têm o maior número de pedidos?
+- Saber quais períodos têm mais pedidos ajuda na alocação de recursos, como número de funcionários, e pode influenciar decisões sobre promoções e ofertas em horários de baixa demanda.
+
+# Qual é o valor médio dos pedidos feitos pelos clientes?
+- Analisar o valor médio dos pedidos ajuda a criar estratégias de marketing, como combos e promoções, para aumentar o ticket médio do restaurante.
+
+# Quais mesas têm maior rotatividade ou realizam mais pedidos?
+-Identificar as mesas com maior rotatividade ou pedidos pode orientar a alocação de garçons e melhorar a eficiência do atendimento, evitando demoras e garantindo uma experiência positiva.
+
+# Qual é o tempo médio para a conclusão de um pedido desde o registro até o fechamento?
+- Monitorar o tempo médio de atendimento ajuda a identificar gargalos no processo de preparação e entrega, permitindo ajustes para melhorar a eficiência e a satisfação dos clientes.
